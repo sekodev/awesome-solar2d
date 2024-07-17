@@ -81,6 +81,7 @@ a collection of awesome open source [Solar2D](https://solar2d.com/) resources.
 * [Morph](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Morph)
 
 ## Sound
+* [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio)
 * [SoLoudModule](https://github.com/siudesu/SoLoudModule)
 * [XeduR - sfx.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/sfx)
 
