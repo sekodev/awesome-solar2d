@@ -1,6 +1,6 @@
 # awesome-solar2d
 
-a collection of awesome open source [Solar2D](https://solar2d.com/) resources.
+a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 (_to add any work to the list, please create a pull request with a link with the topic that you think it belongs to. to make your entry futureproof, a simple explanation is a welcome addition._)
 
