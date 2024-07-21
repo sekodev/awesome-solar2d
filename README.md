@@ -30,11 +30,11 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
+* [PonyBlitz](https://github.com/ponywolf/ponyblitz/)
 * [Roaming Gamer](https://github.com/roaminggamer/RG_FreeStuff)
 * [Scrappy Ferret](https://gitlab.com/scrappyferret-libs)
 * [SpyricGames](https://github.com/SpyricGames/Solar2D-Plugins-Public)
 * [XeduR](https://github.com/XeduR/Solar2D-Projects)
-* [PonyBlitz](https://github.com/ponywolf/ponyblitz/tree/master)
 
 ## Files & Data
 * [BinaryArchive](https://github.com/siudesu/BinaryArchive)
@@ -56,9 +56,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Input Handling
 * [joykey](https://github.com/ponywolf/joykey)
+* [Keyboard](https://github.com/kan6868/KeyBoard)
 * [ponysense](https://github.com/ponywolf/ponysense)
 * [Scrappy Input](https://gitlab.com/scrappyferret-libs/scrappy-input)
-* [Keyboard](https://github.com/kan6868/KeyBoard)
 
 ## Level Design & Management
 * [Berry](https://github.com/ldurniat/Berry)
@@ -78,15 +78,15 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [verifyDomain - simple DRM](https://github.com/XeduR/Solar2D-Projects/tree/master/verifyDomain)
 
 ## Particle Effects
-* [ponypex](https://github.com/ponywolf/ponypex)
 * [Particle emitter samples](https://github.com/roaminggamer/RG_FreeStuff/tree/master/ParticleEmitters)
+* [ponypex](https://github.com/ponywolf/ponypex)
 
 ## Physics
 * [Morph](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Morph)
 
 ## Post Processing
-* [Solar2D Shader](https://github.com/kan6868/solar2D-shader)
 * [Dynacam](https://github.com/Zetosoft/dynacam)
+* [Solar2D Shader](https://github.com/kan6868/solar2D-shader)
 
 ## Sound
 * [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio)
