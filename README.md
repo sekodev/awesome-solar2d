@@ -25,6 +25,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 <br><br><br>
 
 ## Animation
+* [gtween](https://github.com/joshtynjala/gtween.lua)
 * [solarFlow](https://github.com/depilz/solarFlow)
 * [transition2](https://github.com/rannerboy/corona-transition2)
 
