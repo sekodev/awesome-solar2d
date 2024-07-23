@@ -55,6 +55,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Graphics-Extensions-for-Solar2D](https://github.com/ANSH3LL/Graphics-Extensions-for-Solar2D)
 * [Lua-Color-Converter](https://github.com/andrewyavors/Lua-Color-Converter)
 * [Scrappy Colour](https://scrappyferret.com/portfolio/scrappy-colour/)
+* [SVG-Path-in-Lua](https://github.com/singularity-is-i/SVG-Path-in-Lua)
 
 ## Input Handling
 * [joykey](https://github.com/ponywolf/joykey)
