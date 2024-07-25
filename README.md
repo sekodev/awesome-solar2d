@@ -67,6 +67,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Berry](https://github.com/ldurniat/Berry)
 * [OGTLevelManager](https://github.com/OutlawGameTools/solar2d-OGTLevelManager)
 * [ponytiled](https://github.com/ponywolf/ponytiled)
+* [Qiso](http://www.solar2dplugins.com/plugins/qiso-isometric-tilemap-engine)
 * [tilekit](https://github.com/ponywolf/tilekit)
 
 ## Localization
