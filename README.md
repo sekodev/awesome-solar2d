@@ -10,7 +10,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 - [Games](#games)
 - [Graphics](#graphics)
 - [Input Handling](#input-handling)
-- [Level Design & Management](#level-design-management)
+- [Level Design & Management](#level-design--management)
 - [Localization](#localization)
 - [Monetization](#monetization)
 - [Networking](#networking)
