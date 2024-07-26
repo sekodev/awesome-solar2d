@@ -81,6 +81,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Networking
 * [AutoLan-IPv6](https://github.com/roaminggamer/AutoLan-IPv6)
 * [NoobHub](https://github.com/Overtorment/NoobHub)
+* [SOMUN](https://github.com/deniza/somun-solar2d)
 * [verifyDomain - simple DRM](https://github.com/XeduR/Solar2D-Projects/tree/master/verifyDomain)
 
 ## Particle Effects
