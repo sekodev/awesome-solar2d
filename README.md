@@ -25,10 +25,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 <br><br><br>
 
 ## Animation
-* [Flow](https://github.com/depilz/solarFlow) - animation and task management library
-* [gtween](https://github.com/joshtynjala/gtween.lua) - a tweening library ported from ActionScript
-* [LHTween](https://github.com/loghound/Corona-Transitions) - a tweening library to add more transitions
-* [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions
+* [Flow](https://github.com/depilz/solarFlow) - animation and task management library.
+* [gtween](https://github.com/joshtynjala/gtween.lua) - a tweening library ported from ActionScript.
+* [LHTween](https://github.com/loghound/Corona-Transitions) - a tweening library to add more transitions.
+* [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions.
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
@@ -40,12 +40,12 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [XeduR](https://github.com/XeduR/Solar2D-Projects)
 
 ## Files & Data
-* [BinaryArchive](https://github.com/siudesu/BinaryArchive)
-* [corona-settings](https://github.com/schroederapps/corona-settings)
-* [Loadsave](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Loadsave)
-* [Lua-Preference-Library](https://github.com/SatheeshJM/Lua-Preference-Library)
-* [Scrappy Data](https://scrappyferret.com/portfolio/scrappy-data/)
-* [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/)
+* [Binary Archive](https://github.com/siudesu/BinaryArchive) - a module for reading and writing binary archive files for storing resources.
+* [corona-settings](https://github.com/schroederapps/corona-settings) - a module to add easy saving & loading of user settings.
+* [Loadsave](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Loadsave) - a module for saving and loading data to & from external files across all supported platforms.
+* [Preference](https://github.com/SatheeshJM/Lua-Preference-Library) - save and retrieve tables,numbers,strings or boolean.
+* [Scrappy Data](https://scrappyferret.com/portfolio/scrappy-data/) - a data management library that allows for unlimited containers and optional encryption.
+* [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/) - an encryption helper library.
 
 ## Games
 * [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields)
