@@ -25,10 +25,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 <br><br><br>
 
 ## Animation
-* [gtween](https://github.com/joshtynjala/gtween.lua)
-* [LHTween](https://github.com/loghound/Corona-Transitions)
-* [solarFlow](https://github.com/depilz/solarFlow)
-* [transition2](https://github.com/rannerboy/corona-transition2)
+* [Flow](https://github.com/depilz/solarFlow) - animation and task management library
+* [gtween](https://github.com/joshtynjala/gtween.lua) - a tweening library ported from ActionScript
+* [LHTween](https://github.com/loghound/Corona-Transitions) - a tweening library to add more transitions
+* [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
