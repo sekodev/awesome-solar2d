@@ -32,7 +32,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
-* [Plugins - source code](https://github.com/ggcrunchy/solar2d-plugins)
+* [Plugins](https://github.com/ggcrunchy/solar2d-plugins) - source code for various plugins
 * [PonyBlitz](https://github.com/ponywolf/ponyblitz/)
 * [Roaming Gamer](https://github.com/roaminggamer/RG_FreeStuff)
 * [Scrappy Ferret](https://gitlab.com/scrappyferret-libs)
