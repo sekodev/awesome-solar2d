@@ -6,7 +6,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 - [Animation](#animation)
 - [Collections](#collections)
-- [Files & Data](#files-data)
+- [Files & Data](#files--data)
 - [Games](#games)
 - [Graphics](#graphics)
 - [Input Handling](#input-handling)
