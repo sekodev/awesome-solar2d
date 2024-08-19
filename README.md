@@ -126,8 +126,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Utilities
 * [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints)
 * [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit)
-* [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance)
+* [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/))
 * [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator)
+* [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance)
 * [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device)
 * [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/)
 * [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/)
