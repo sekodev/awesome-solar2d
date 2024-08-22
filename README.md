@@ -84,6 +84,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [NoobHub](https://github.com/Overtorment/NoobHub)
 * [SOMUN](https://github.com/deniza/somun-solar2d)
 * [verifyDomain - simple DRM](https://github.com/XeduR/Solar2D-Projects/tree/master/verifyDomain)
+* [zcrmmp](https://github.com/agramonte/zcrmmp) - a module to implement local multiplayer
 
 ## Particle Effects
 * [Particle emitter samples](https://github.com/roaminggamer/RG_FreeStuff/tree/master/ParticleEmitters)
