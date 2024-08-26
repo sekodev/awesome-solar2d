@@ -5,6 +5,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 (_to add any work to the list, please create a pull request with a link with the topic that you think it belongs to. to make your entry futureproof, a simple explanation is a welcome addition._)
 
 - [Animation](#animation)
+- [Coding & Debugging](#coding--debugging)
 - [Collections](#collections)
 - [Files & Data](#files--data)
 - [Games](#games)
@@ -29,6 +30,13 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [gtween](https://github.com/joshtynjala/gtween.lua) - a tweening library ported from ActionScript.
 * [LHTween](https://github.com/loghound/Corona-Transitions) - a tweening library to add more transitions.
 * [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions.
+
+## Coding & Debugging
+* [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints)
+* [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit)
+* [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/))
+* [Solar2DGameSpeed](https://github.com/depilz/Solar2DGameSpeed)
+* [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance)
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
@@ -125,15 +133,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Fonts](https://scrappyferret.com/portfolio/scrappy-fonts/)
 
 ## Utilities
-* [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints)
-* [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit)
-* [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/))
 * [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator)
-* [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance)
 * [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device)
 * [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/)
 * [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/)
 * [Scrappy Time](https://scrappyferret.com/portfolio/scrappy-time/)
-* [Solar2DGameSpeed](https://github.com/depilz/Solar2DGameSpeed)
 * [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID)
 * [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils)
