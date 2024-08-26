@@ -59,10 +59,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [SVG-Path-in-Lua](https://github.com/singularity-is-i/SVG-Path-in-Lua) - a module for getting SVG paths and translate them into coordinates.
 
 ## Input Handling
-* [joykey](https://github.com/ponywolf/joykey)
-* [Keyboard](https://github.com/kan6868/KeyBoard)
-* [ponysense](https://github.com/ponywolf/ponysense)
-* [Scrappy Input](https://gitlab.com/scrappyferret-libs/scrappy-input)
+* [joykey](https://github.com/ponywolf/joykey) - a module that converts joystick axis events into key events. 
+* [KeyBoard](https://github.com/kan6868/KeyBoard) - a module that creates a virtual keyboard on the screen.
+* [ponysense](https://github.com/ponywolf/ponysense) - SteelSeries GameSense™ SDK Helper Library
+* [Scrappy Input](https://gitlab.com/scrappyferret-libs/scrappy-input) - input management library
 
 ## Level Design & Management
 * [Berry](https://github.com/ldurniat/Berry)
