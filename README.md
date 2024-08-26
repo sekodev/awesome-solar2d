@@ -138,5 +138,6 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/)
 * [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/)
 * [Scrappy Time](https://scrappyferret.com/portfolio/scrappy-time/)
+* [Screen recorder](https://github.com/labolado/solar2d-plugin_screen_recorder) - in-app video recording and sharing plugin
 * [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID)
 * [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils)
