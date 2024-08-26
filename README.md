@@ -52,11 +52,11 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games)
 
 ## Graphics
-* [corona-magnifier](https://github.com/schroederapps/corona-magnifier)
-* [Graphics-Extensions-for-Solar2D](https://github.com/ANSH3LL/Graphics-Extensions-for-Solar2D)
-* [Lua-Color-Converter](https://github.com/andrewyavors/Lua-Color-Converter)
-* [Scrappy Colour](https://scrappyferret.com/portfolio/scrappy-colour/)
-* [SVG-Path-in-Lua](https://github.com/singularity-is-i/SVG-Path-in-Lua)
+* [corona-magnifier](https://github.com/schroederapps/corona-magnifier) - a module that creates a virtual magnifying glass.
+* [Graphics-Extensions-for-Solar2D](https://github.com/ANSH3LL/Graphics-Extensions-for-Solar2D) - an extension to supported image formats(SVG, WEBP, QOI, PNG, JPEG).
+* [Lua-Color-Converter](https://github.com/andrewyavors/Lua-Color-Converter) - converts hex or RGB values into compatible format.
+* [Scrappy Colour](https://scrappyferret.com/portfolio/scrappy-colour/) - a colour management library that allows for easy colour naming and access.
+* [SVG-Path-in-Lua](https://github.com/singularity-is-i/SVG-Path-in-Lua) - a module for getting SVG paths and translate them into coordinates.
 
 ## Input Handling
 * [joykey](https://github.com/ponywolf/joykey)
