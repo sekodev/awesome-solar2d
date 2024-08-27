@@ -56,7 +56,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/) - an encryption helper library.
 
 ## Games
+* [OpenBilgi](https://github.com/sekodev/OpenBilgi)
 * [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields)
+* [War with Infinity - Fantasy Heroine Edition](https://github.com/LowWah/WwI-Solar2D-Redacted)
 * [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games)
 
 ## Graphics
@@ -122,7 +124,6 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Game Jam Template](https://github.com/XeduR/Solar2D-Projects/tree/master/Game%20Jam%20Template)
 * [LegendOfSolar2D](https://github.com/superqix/LegendofSolar2D)
 * [Match 3 Space RPG](https://github.com/coronalabs/Match-Three-Space-RPG)
-* [OpenBilgi](https://github.com/sekodev/OpenBilgi)
 * [ponyblitz](https://github.com/ponywolf/ponyblitz)
 * [Sticker Knight Platformer](https://github.com/coronalabs/Sticker-Knight-Platformer/)
 * [Template-Platformer-Solar2D](https://github.com/kan6868/Template-Platformer-Solar2D)
