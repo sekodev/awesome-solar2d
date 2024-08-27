@@ -74,6 +74,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Level Design & Management
 * [Berry](https://github.com/ldurniat/Berry)
+* [Labo 2D Game Level Editor](https://github.com/labolado/Labo-2D-Game-Level-Editor-For-Solar2D) - a 2D car racing / platform game level editor
 * [Million Tile Engine](https://github.com/jsykes/million-tile-engine)
 * [OGTLevelManager](https://github.com/OutlawGameTools/solar2d-OGTLevelManager)
 * [ponytiled](https://github.com/ponywolf/ponytiled)
