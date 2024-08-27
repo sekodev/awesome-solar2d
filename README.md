@@ -103,8 +103,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Morph](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Morph)
 
 ## Post Processing
-* [Dynacam](https://github.com/Zetosoft/dynacam)
-* [Solar2D Shader](https://github.com/kan6868/solar2D-shader)
+* [Dynacam](https://github.com/Zetosoft/dynacam) - a module to add dynamic lighting and camera.
+* ["Share your shaders"](https://forums.solar2d.com/t/share-your-shaders/333202) - a forum topic listing shaders you can use.
+* [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
 
 ## Sound
 * [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio)
