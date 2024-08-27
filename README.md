@@ -82,11 +82,11 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [tilekit](https://github.com/ponywolf/tilekit)
 
 ## Localization
-* [Scrappy Language](https://scrappyferret.com/portfolio/scrappy-language/)
-* [sozluk](https://github.com/sekodev/sozluk)
+* [Scrappy Language](https://scrappyferret.com/portfolio/scrappy-language/) - a localisation management library.
+* [sozluk](https://github.com/sekodev/sozluk) - a localization library.
 
 ## Monetization
-* [iap_badger](https://github.com/happymongoose/iap_badger)
+* [iap_badger](https://github.com/happymongoose/iap_badger) - a unified approach to in-app purchases.
 
 ## Networking
 * [AutoLan-IPv6](https://github.com/roaminggamer/AutoLan-IPv6)
