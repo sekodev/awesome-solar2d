@@ -32,11 +32,11 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions.
 
 ## Coding & Debugging
-* [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints)
-* [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit)
-* [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/))
-* [Solar2DGameSpeed](https://github.com/depilz/Solar2DGameSpeed)
-* [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance)
+* [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints) - a utility that enables the integration of breakpoints.
+* [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit) - a tool that allows for real-time editing of variables and objects.
+* [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/)) - a tool you can use to replace locally bundled scripts with downloaded patches.
+* [Solar2DGameSpeed](https://github.com/depilz/Solar2DGameSpeed) - a tool designed to control the game speed.
+* [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance) - a library to track your app/game performance.
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
