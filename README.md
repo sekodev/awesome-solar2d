@@ -71,8 +71,8 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Input Handling
 * [joykey](https://github.com/ponywolf/joykey) - a module that converts joystick axis events into key events. 
 * [KeyBoard](https://github.com/kan6868/KeyBoard) - a module that creates a virtual keyboard on the screen.
-* [ponysense](https://github.com/ponywolf/ponysense) - SteelSeries GameSense™ SDK Helper Library
-* [Scrappy Input](https://gitlab.com/scrappyferret-libs/scrappy-input) - input management library
+* [ponysense](https://github.com/ponywolf/ponysense) - SteelSeries GameSense™ SDK Helper Library.
+* [Scrappy Input](https://gitlab.com/scrappyferret-libs/scrappy-input) - input management library.
 
 ## Level Design & Management
 * [Berry](https://github.com/ldurniat/Berry) - a simple Tiled Map loader.
@@ -91,11 +91,11 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [iap_badger](https://github.com/happymongoose/iap_badger) - a unified approach to in-app purchases.
 
 ## Networking
-* [AutoLan-IPv6](https://github.com/roaminggamer/AutoLan-IPv6)
-* [NoobHub](https://github.com/Overtorment/NoobHub)
-* [SOMUN](https://github.com/deniza/somun-solar2d)
-* [verifyDomain - simple DRM](https://github.com/XeduR/Solar2D-Projects/tree/master/verifyDomain)
-* [zcrmmp](https://github.com/agramonte/zcrmmp) - a module to implement local multiplayer
+* [AutoLan-IPv6](https://github.com/roaminggamer/AutoLan-IPv6) - a derivative of [AutoLAN](https://web.archive.org/web/20170320155140/http://www.mydevelopersgames.com/AutoLAN/index.html), a library that allows you to create a new multiplayer game or networking application.
+* [NoobHub](https://github.com/Overtorment/NoobHub) - multiplayer and network messaging library.
+* [SOMUN](https://github.com/deniza/somun-solar2d) - client for SOMUN server for developing and deploying turn-based games.
+* [verifyDomain - simple DRM](https://github.com/XeduR/Solar2D-Projects/tree/master/verifyDomain)(_HTML5 only_) - a demo project that demonstrates how you can check if your project is running on your desired domain(s).
+* [zcrmmp](https://github.com/agramonte/zcrmmp) - a module to implement local multiplayer.
 
 ## Particle Effects
 * [Particle emitter samples](https://github.com/roaminggamer/RG_FreeStuff/tree/master/ParticleEmitters)
@@ -141,6 +141,6 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/)
 * [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/)
 * [Scrappy Time](https://scrappyferret.com/portfolio/scrappy-time/)
-* [Screen recorder](https://github.com/solar2d/com.labolado-plugin.screenRecorder) - in-app video recording and sharing plugin
+* [Screen recorder](https://github.com/solar2d/com.labolado-plugin.screenRecorder) - in-app video recording and sharing plugin.
 * [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID)
 * [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils)
