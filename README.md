@@ -56,10 +56,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/) - an encryption helper library.
 
 ## Games
-* [OpenBilgi](https://github.com/sekodev/OpenBilgi)
-* [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields)
-* [War with Infinity - Fantasy Heroine Edition](https://github.com/LowWah/WwI-Solar2D-Redacted)
-* [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games)
+* [OpenBilgi](https://github.com/sekodev/OpenBilgi) - roguelike trivia/quiz game.
+* [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields) - game jam entry.
+* [War with Infinity - Fantasy Heroine Edition](https://github.com/LowWah/WwI-Solar2D-Redacted) - partial source code for a fantasy RPG game with turn-based combat.
+* [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games) - a collection of games in various genres.
 
 ## Graphics
 * [corona-magnifier](https://github.com/schroederapps/corona-magnifier) - a module that creates a virtual magnifying glass.
