@@ -75,13 +75,13 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Input](https://gitlab.com/scrappyferret-libs/scrappy-input) - input management library
 
 ## Level Design & Management
-* [Berry](https://github.com/ldurniat/Berry)
+* [Berry](https://github.com/ldurniat/Berry) - a simple Tiled Map loader.
 * [Labo 2D Game Level Editor](https://github.com/labolado/Labo-2D-Game-Level-Editor-For-Solar2D) - a 2D car racing / platform game level editor
-* [Million Tile Engine](https://github.com/jsykes/million-tile-engine)
-* [OGTLevelManager](https://github.com/OutlawGameTools/solar2d-OGTLevelManager)
-* [ponytiled](https://github.com/ponywolf/ponytiled)
-* [Qiso](http://www.solar2dplugins.com/plugins/qiso-isometric-tilemap-engine)
-* [tilekit](https://github.com/ponywolf/tilekit)
+* [Million Tile Engine](https://github.com/jsykes/million-tile-engine) - tile based engine.
+* [OGTLevelManager](https://github.com/OutlawGameTools/solar2d-OGTLevelManager) - a code library to lock/unlock levels, keep track of scores for each level, etc.
+* [ponytiled](https://github.com/ponywolf/ponytiled) - a simple Tiled Map loader.
+* [Qiso](http://www.solar2dplugins.com/plugins/qiso-isometric-tilemap-engine) - isometric tilemap engine.
+* [tilekit](https://github.com/ponywolf/tilekit) - a simple TileKit loader.
 
 ## Localization
 * [Scrappy Language](https://scrappyferret.com/portfolio/scrappy-language/) - a localisation management library.
