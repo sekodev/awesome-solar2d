@@ -138,12 +138,12 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Utilities
 * [eventListenerWrapper](https://github.com/XeduR/Solar2D-Projects/tree/master/eventListenerWrapper) - a module overwriting the built-in runtime methods to add and remove various warnings.
-* [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator)
-* [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device)
-* [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/)
-* [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/)
-* [Scrappy Time](https://scrappyferret.com/portfolio/scrappy-time/)
+* [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator) - pseudorandom number generation using the linear congruential method.
+* [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device) - a library that allows you to get information about the device your app is running on.
+* [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/) - maths library that includes a bunch of common methods.
+* [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/) - helper library that allows for working in a random fashion, such as generating random numbers, strings, colours, and UUIDs, as well as selecting from a list and flipping a coin.
+* [Scrappy Time](https://scrappyferret.com/portfolio/scrappy-time/) - time management library that simplifies time based movement and FPS calculation. 
 * [Screen recorder](https://github.com/solar2d/com.labolado-plugin.screenRecorder) - in-app video recording and sharing plugin.
 * [Spyric Screen](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Screen) - a module with easy to use and descriptive display properties for creating dynamically/statically positioned display objects.
-* [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID)
-* [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils)
+* [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID) - a module used to create a UUID solely using time.
+* [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils) - a collection of all sorts of useful utility functions.
