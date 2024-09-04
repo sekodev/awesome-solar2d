@@ -99,10 +99,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Particle Effects
 * [Particle emitter samples](https://github.com/roaminggamer/RG_FreeStuff/tree/master/ParticleEmitters)
-* [ponypex](https://github.com/ponywolf/ponypex)
+* [ponypex](https://github.com/ponywolf/ponypex) - PEX file import for particles.
 
 ## Physics
-* [Morph](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Morph)
+* [Morph](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Morph) - a library for creating and scaling/morphing display objects and their physics bodies.
 
 ## Post Processing
 * [Dynacam](https://github.com/Zetosoft/dynacam) - a module to add dynamic lighting and camera.
