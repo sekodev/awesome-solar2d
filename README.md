@@ -62,6 +62,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/) - an encryption helper library.
 
 ## Games
+* [Corona Cannon](https://github.com/coronalabs-samples/CoronaCannon/) - cannon shooting game.
+* [Endless Sk8boarder](https://github.com/coronalabs/Endless-Skateborder) - endless runner style game.
+* [Flappy Bird](https://github.com/PapaBubaDiop/flappy-bird) - a flappy bird clone.
 * [OpenBilgi](https://github.com/sekodev/OpenBilgi) - roguelike trivia/quiz game.
 * [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields) - game jam entry.
 * [War with Infinity - Fantasy Heroine Edition](https://github.com/LowWah/WwI-Solar2D-Redacted) - partial source code for a fantasy RPG game with turn-based combat.
@@ -116,16 +119,13 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
 
 ## Starter Kits
+* [Game Jam Template](https://github.com/XeduR/Solar2D-Projects/tree/master/Game%20Jam%20Template) - a collection of libraries and plugins to make development easier during game jams.
+* [LegendOfSolar2D](https://github.com/superqix/LegendofSolar2D) - basic framework for a top-down RPG.
+* [ponyblitz](https://github.com/ponywolf/ponyblitz) - a lightweight skeleton for game jams/compos.
 * [SSK2](https://github.com/roaminggamer/SSK2) - a collection of libraries and utilities designed to improve your development speed and efficiency.
 
 ## Templates
-* [Corona Cannon](https://github.com/coronalabs-samples/CoronaCannon/)
-* [Endless Sk8boarder](https://github.com/coronalabs/Endless-Skateborder)
-* [Flappy Bird](https://github.com/PapaBubaDiop/flappy-bird)
-* [Game Jam Template](https://github.com/XeduR/Solar2D-Projects/tree/master/Game%20Jam%20Template)
-* [LegendOfSolar2D](https://github.com/superqix/LegendofSolar2D)
 * [Match 3 Space RPG](https://github.com/coronalabs/Match-Three-Space-RPG)
-* [ponyblitz](https://github.com/ponywolf/ponyblitz)
 * [Sticker Knight Platformer](https://github.com/coronalabs/Sticker-Knight-Platformer/)
 * [Template-Platformer-Solar2D](https://github.com/kan6868/Template-Platformer-Solar2D)
 
