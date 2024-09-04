@@ -137,11 +137,13 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Fonts](https://scrappyferret.com/portfolio/scrappy-fonts/) - font management library that allows for easy font naming and access.
 
 ## Utilities
+* [eventListenerWrapper](https://github.com/XeduR/Solar2D-Projects/tree/master/eventListenerWrapper) - a module overwriting the built-in runtime methods to add and remove various warnings.
 * [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator)
 * [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device)
 * [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/)
 * [Scrappy Random](https://scrappyferret.com/portfolio/scrappy-random/)
 * [Scrappy Time](https://scrappyferret.com/portfolio/scrappy-time/)
 * [Screen recorder](https://github.com/solar2d/com.labolado-plugin.screenRecorder) - in-app video recording and sharing plugin.
+* [Spyric Screen](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Screen) - a module with easy to use and descriptive display properties for creating dynamically/statically positioned display objects.
 * [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID)
 * [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils)
