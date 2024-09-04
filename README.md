@@ -22,7 +22,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 - [Sound](#sound)
 - [Starter Kits](#starter-kits)
 - [Templates](#templates)
-- [Text](#text)
+- [Text Rendering](#text-rendering)
 - [Utilities](#utilities)
 <br><br><br>
 
@@ -129,12 +129,12 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Sticker Knight Platformer](https://github.com/coronalabs/Sticker-Knight-Platformer/) - _platformer_ type demo project utilizing module-based game development.
 * [Template-Platformer-Solar2D](https://github.com/kan6868/Template-Platformer-Solar2D) - a sample project to help learn how to build a _platformer_.
 
-## Text
-* [corona-textrender](https://github.com/mimetic/corona-textrender)
-* [Font-Loader](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Font-Loader)
-* [ponyfont](https://github.com/ponywolf/ponyfont)
-* [ponystroke](https://github.com/ponywolf/ponystroke)
-* [Scrappy Fonts](https://scrappyferret.com/portfolio/scrappy-fonts/)
+## Text Rendering
+* [corona-textrender](https://github.com/mimetic/corona-textrender) - a pure-Lua text rendering module which can handle basic HTML, fonts, font-styles, and basic font metrics.
+* [Font-Loader](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Font-Loader) - a library to pre-load fonts to improve performance.
+* [ponyfont](https://github.com/ponywolf/ponyfont) - a library to provide bitmap font support.
+* [ponystroke](https://github.com/ponywolf/ponystroke) - a library to create outlined text.
+* [Scrappy Fonts](https://scrappyferret.com/portfolio/scrappy-fonts/) - font management library that allows for easy font naming and access.
 
 ## Utilities
 * [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator)
