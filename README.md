@@ -116,7 +116,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
 
 ## Starter Kits
-* [SSK2](https://github.com/roaminggamer/SSK2)
+* [SSK2](https://github.com/roaminggamer/SSK2) - a collection of libraries and utilities designed to improve your development speed and efficiency.
 
 ## Templates
 * [Corona Cannon](https://github.com/coronalabs-samples/CoronaCannon/)
