@@ -5,6 +5,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 (_to add any work to the list, please create a pull request with a link with the topic that you think it belongs to. to make your entry futureproof, a simple explanation is a welcome addition._)
 
 - [Animation](#animation)
+- [Audio](#audio)
 - [Coding & Debugging](#coding--debugging)
 - [Collections](#collections)
 - [Files & Data](#files--data)
@@ -30,6 +31,11 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [gtween](https://github.com/joshtynjala/gtween.lua) - a tweening library ported from ActionScript.
 * [LHTween](https://github.com/loghound/Corona-Transitions) - a tweening library to add more transitions.
 * [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions.
+
+## Audio
+* [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio) - audio management library.
+* [SoLoudModule](https://github.com/siudesu/SoLoudModule) - a drop-in replacement for the audio API using the SoLoud plugin.
+* [XeduR - sfx.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/sfx) - a module for loading and handling all audio files via their filename (and path).
 
 ## Coding & Debugging
 * [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints) - a utility that enables the integration of breakpoints.
@@ -108,11 +114,6 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Dynacam](https://github.com/Zetosoft/dynacam) - a module to add dynamic lighting and camera.
 * ["Share your shaders"](https://forums.solar2d.com/t/share-your-shaders/333202) - a forum topic listing shaders you can use.
 * [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
-
-## Sound
-* [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio) - audio management library.
-* [SoLoudModule](https://github.com/siudesu/SoLoudModule) - a drop-in replacement for the audio API using the SoLoud plugin.
-* [XeduR - sfx.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/sfx) - a module for loading and handling all audio files via their filename (and path).
 
 ## Starter Kits
 * [SSK2](https://github.com/roaminggamer/SSK2)
