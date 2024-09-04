@@ -110,9 +110,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
 
 ## Sound
-* [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio)
-* [SoLoudModule](https://github.com/siudesu/SoLoudModule)
-* [XeduR - sfx.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/sfx)
+* [Scrappy Audio](https://gitlab.com/scrappyferret-libs/scrappy-audio) - audio management library.
+* [SoLoudModule](https://github.com/siudesu/SoLoudModule) - a drop-in replacement for the audio API using the SoLoud plugin.
+* [XeduR - sfx.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/sfx) - a module for loading and handling all audio files via their filename (and path).
 
 ## Starter Kits
 * [SSK2](https://github.com/roaminggamer/SSK2)
