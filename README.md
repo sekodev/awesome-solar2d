@@ -14,12 +14,12 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 - [Input Handling](#input-handling)
 - [Level Design & Management](#level-design--management)
 - [Localization](#localization)
+- [Marketplaces (Third-Party)](#marketplaces-third-party)
 - [Monetization](#monetization)
 - [Networking](#networking)
 - [Particle Effects](#particle-effects)
 - [Physics](#physics)
 - [Post-Processing](#post-processing)
-- [Sound](#sound)
 - [Starter Kits](#starter-kits)
 - [Templates](#templates)
 - [Text Rendering](#text-rendering)
@@ -95,6 +95,10 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Localization
 * [Scrappy Language](https://scrappyferret.com/portfolio/scrappy-language/) - a localisation management library.
 * [sozluk](https://github.com/sekodev/sozluk) - a localization library.
+
+## Marketplaces (Third-party)
+* [Solar2D Marketplace](https://solar2dmarketplace.com/)
+* [Solar2D Plugins](https://www.solar2dplugins.com/)
 
 ## Monetization
 * [iap_badger](https://github.com/happymongoose/iap_badger) - a unified approach to in-app purchases.
