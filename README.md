@@ -69,6 +69,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Flappy Bird](https://github.com/PapaBubaDiop/flappy-bird) - a flappy bird clone.
 * [OpenBilgi](https://github.com/sekodev/OpenBilgi) - roguelike trivia/quiz game.
 * [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields) - game jam entry.
+* [Snake](https://github.com/ldurniat/Snake-Game) - a clone of the classic Snake game.
 * [The Great Pong](https://github.com/ldurniat/The-Great-Pong) - a clone of Pong game developed by Atari.
 * [War with Infinity - Fantasy Heroine Edition](https://github.com/LowWah/WwI-Solar2D-Redacted) - partial source code for a fantasy RPG game with turn-based combat.
 * [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games) - a collection of games in various genres.
