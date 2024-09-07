@@ -60,6 +60,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Preference](https://github.com/SatheeshJM/Lua-Preference-Library) - save and retrieve tables,numbers,strings or boolean.
 * [Scrappy Data](https://scrappyferret.com/portfolio/scrappy-data/) - a data management library that allows for unlimited containers and optional encryption.
 * [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/) - an encryption helper library.
+* [Simple-Table-Load-Save](https://github.com/robmiracle/Simple-Table-Load-Save-Functions-for-Corona-SDK) - load and save function to store a Lua table and read it back.
 
 ## Games
 * [Asteroids](https://github.com/ldurniat/Asteroids) - a clone of the arcade classic Asteroids.
