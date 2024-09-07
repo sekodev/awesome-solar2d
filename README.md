@@ -141,6 +141,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Fonts](https://scrappyferret.com/portfolio/scrappy-fonts/) - font management library that allows for easy font naming and access.
 
 ## Utilities
+* [delta-time](https://github.com/ldurniat/delta-time) - a module for time based animations.
 * [eventListenerWrapper](https://github.com/XeduR/Solar2D-Projects/tree/master/eventListenerWrapper) - a module overwriting the built-in runtime methods to add and remove various warnings.
 * [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator) - pseudorandom number generation using the linear congruential method.
 * [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device) - a library that allows you to get information about the device your app is running on.
