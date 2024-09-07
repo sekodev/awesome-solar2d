@@ -150,6 +150,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Utilities
 * [delta-time](https://github.com/ldurniat/delta-time) - a module for time based animations.
 * [eventListenerWrapper](https://github.com/XeduR/Solar2D-Projects/tree/master/eventListenerWrapper) - a module overwriting the built-in runtime methods to add and remove various warnings.
+* [Object-Pool](https://github.com/ldurniat/Object-Pool) - a module for reusing objects instead of creating new ones.
 * [Pseudorandom Number Generator](https://github.com/XeduR/Solar2D-Projects/tree/master/Pseudorandom%20Number%20Generator) - pseudorandom number generation using the linear congruential method.
 * [Scrappy Device](https://gitlab.com/scrappyferret-libs/scrappy-device) - a library that allows you to get information about the device your app is running on.
 * [Scrappy Maths](https://scrappyferret.com/portfolio/scrappy-maths/) - maths library that includes a bunch of common methods.
