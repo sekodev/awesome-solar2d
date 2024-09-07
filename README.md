@@ -121,6 +121,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Physics
 * [Morph](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Morph) - a library for creating and scaling/morphing display objects and their physics bodies.
+* [Physics-Editor-exporter](https://github.com/ldurniat/Physics-Editor-exporter) - modified version of built-in exporter.
 
 ## Post Processing
 * [Dynacam](https://github.com/Zetosoft/dynacam) - a module to add dynamic lighting and camera.
