@@ -75,6 +75,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games) - a collection of games in various genres.
 
 ## Graphics
+* [Color Tween](https://github.com/ldurniat/Color-Tween) - a module for color transition using linear interpolation.
 * [corona-magnifier](https://github.com/schroederapps/corona-magnifier) - a module that creates a virtual magnifying glass.
 * [Graphics-Extensions-for-Solar2D](https://github.com/ANSH3LL/Graphics-Extensions-for-Solar2D) - an extension to supported image formats(SVG, WEBP, QOI, PNG, JPEG).
 * [Lua-Color-Converter](https://github.com/andrewyavors/Lua-Color-Converter) - converts hex or RGB values into compatible format.
