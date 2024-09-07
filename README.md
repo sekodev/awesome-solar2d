@@ -130,6 +130,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Templates
 * [Match 3 Space RPG](https://github.com/coronalabs/Match-Three-Space-RPG) - _match 3_ type demo project utilizing module-based game development.
+* [Solar2D-template](https://github.com/depilz/Solar2D-template) - a useful and versatile template for your games.
 * [Sticker Knight Platformer](https://github.com/coronalabs/Sticker-Knight-Platformer/) - _platformer_ type demo project utilizing module-based game development.
 * [Template-Platformer-Solar2D](https://github.com/kan6868/Template-Platformer-Solar2D) - a sample project to help learn how to build a _platformer_.
 
