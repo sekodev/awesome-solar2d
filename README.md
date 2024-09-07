@@ -62,11 +62,13 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Scrappy Encryption](https://scrappyferret.com/portfolio/scrappy-encryption/) - an encryption helper library.
 
 ## Games
+* [Asteroids](https://github.com/ldurniat/Asteroids) - a clone of the arcade classic Asteroids.
 * [Corona Cannon](https://github.com/coronalabs-samples/CoronaCannon/) - cannon shooting game.
 * [Endless Sk8boarder](https://github.com/coronalabs/Endless-Skateborder) - endless runner style game.
 * [Flappy Bird](https://github.com/PapaBubaDiop/flappy-bird) - a flappy bird clone.
 * [OpenBilgi](https://github.com/sekodev/OpenBilgi) - roguelike trivia/quiz game.
 * [Pixel Shields](https://github.com/Puzzl3Mak3r/PixelShields) - game jam entry.
+* [The Great Pong](https://github.com/ldurniat/The-Great-Pong) - a clone of Pong game developed by Atari.
 * [War with Infinity - Fantasy Heroine Edition](https://github.com/LowWah/WwI-Solar2D-Redacted) - partial source code for a fantasy RPG game with turn-based combat.
 * [XeduR's Games](https://github.com/XeduR/Solar2D-Projects/tree/master/Games) - a collection of games in various genres.
 
