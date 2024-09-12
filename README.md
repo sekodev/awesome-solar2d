@@ -111,6 +111,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Networking
 * [AutoLan-IPv6](https://github.com/roaminggamer/AutoLan-IPv6) - a derivative of [AutoLAN](https://web.archive.org/web/20170320155140/http://www.mydevelopersgames.com/AutoLAN/index.html), a library that allows you to create a new multiplayer game or networking application.
 * [NoobHub](https://github.com/Overtorment/NoobHub) - multiplayer and network messaging library.
+* [SolarWebSockets](https://github.com/joehinkle11/SolarWebSockets) - websocket client and server (ws/wss).
 * [SOMUN client](https://github.com/deniza/somun-solar2d) - client for SOMUN server, designed for developing and deploying turn-based games.
 * [verifyDomain - simple DRM](https://github.com/XeduR/Solar2D-Projects/tree/master/verifyDomain)(_HTML5 only_) - a demo project that demonstrates how you can check if your project is running on your desired domain(s).
 * [zcrmmp](https://github.com/agramonte/zcrmmp) - a module to implement local multiplayer.
