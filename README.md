@@ -56,6 +56,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Files & Data
 * [Binary Archive](https://github.com/siudesu/BinaryArchive) - a module for reading and writing binary archive files for storing resources.
 * [corona-settings](https://github.com/schroederapps/corona-settings) - a module to add easy saving & loading of user settings.
+* [GBCDataCabinet](https://gamesbycandlelight.com/gbc-data-cabinet/) - a plugin to create and use session (located in memory) and persistent (located on disk) data throughout your application. (part of [Free Plugins Directory](https://plugins.solar2d.com/))
 * [Loadsave](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Loadsave) - a module for saving and loading data to & from external files across all supported platforms.
 * [Preference](https://github.com/SatheeshJM/Lua-Preference-Library) - save and retrieve tables,numbers,strings or boolean.
 * [Scrappy Data](https://scrappyferret.com/portfolio/scrappy-data/) - a data management library that allows for unlimited containers and optional encryption.
@@ -98,7 +99,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [tilekit](https://github.com/ponywolf/tilekit) - a simple TileKit loader.
 
 ## Localization
-* [GBCLanguageCabinet](https://gamesbycandlelight.com/gbc-language-cabinet/) - a plugin to display text in different languages.
+* [GBCLanguageCabinet](https://gamesbycandlelight.com/gbc-language-cabinet/) - a plugin to display text in different languages. (part of [Free Plugins Directory](https://plugins.solar2d.com/))
 * [Scrappy Language](https://scrappyferret.com/portfolio/scrappy-language/) - a localisation management library.
 * [sozluk](https://github.com/sekodev/sozluk) - a localization library.
 
