@@ -98,6 +98,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [tilekit](https://github.com/ponywolf/tilekit) - a simple TileKit loader.
 
 ## Localization
+* [GBCLanguageCabinet](https://gamesbycandlelight.com/gbc-language-cabinet/) - a plugin to display text in different languages.
 * [Scrappy Language](https://scrappyferret.com/portfolio/scrappy-language/) - a localisation management library.
 * [sozluk](https://github.com/sekodev/sozluk) - a localization library.
 
