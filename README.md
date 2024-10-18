@@ -128,6 +128,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 
 ## Post Processing
 * [Dynacam](https://github.com/Zetosoft/dynacam) - a module to add dynamic lighting and camera.
+* [plugin_movie](https://github.com/ANSH3LL/plugin_movie) - video-to-texture plugin.
 * ["Share your shaders"](https://forums.solar2d.com/t/share-your-shaders/333202) - a forum topic listing shaders you can use.
 * [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
 
