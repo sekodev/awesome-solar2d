@@ -22,6 +22,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 - [Post-Processing](#post-processing)
 - [Starter Kits](#starter-kits)
 - [Templates](#templates)
+- [Text Editor Extensions](#text-editor-extensions)
+  - [Sublime Text](#sublime-text)
+  - [Visual Studio Code](#visual-studio-code)
 - [Text Rendering](#text-rendering)
 - [Utilities](#utilities)
 <br><br><br>
@@ -143,6 +146,16 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Solar2D-template](https://github.com/depilz/Solar2D-template) - a useful and versatile template for your games.
 * [Sticker Knight Platformer](https://github.com/coronalabs/Sticker-Knight-Platformer/) - _platformer_ type demo project utilizing module-based game development.
 * [Template-Platformer-Solar2D](https://github.com/kan6868/Template-Platformer-Solar2D) - a sample project to help learn how to build a _platformer_.
+
+## Text Editor Extensions
+
+### Sublime Text
+- [Solar2D Editor](https://github.com/coronalabs/CoronaSDK-SublimeText)
+  
+### Visual Studio Code
+- [Solar2D Editor](https://marketplace.visualstudio.com/items?itemName=solar2d.solar2d-autocomplete)
+- [Solar2D Companion](https://marketplace.visualstudio.com/items?itemName=M4adan.solar2d-companion)
+- [Solar2D Formatter](https://marketplace.visualstudio.com/items?itemName=marek-skreko.solar2d-formatter)
 
 ## Text Rendering
 * [corona-textrender](https://github.com/mimetic/corona-textrender) - a pure-Lua text rendering module which can handle basic HTML, fonts, font-styles, and basic font metrics.
