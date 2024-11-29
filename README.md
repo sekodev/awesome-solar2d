@@ -177,4 +177,5 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Screen recorder](https://github.com/solar2d/com.labolado-plugin.screenRecorder) - in-app video recording and sharing plugin.
 * [Spyric Screen](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Screen) - a module with easy to use and descriptive display properties for creating dynamically/statically positioned display objects.
 * [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID) - a module used to create a UUID solely using time.
+* [WebView Enhanced](https://github.com/labolado/solar2d_webview_enhanced) - extended API with new methods and events.
 * [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils) - a collection of all sorts of useful utility functions.
