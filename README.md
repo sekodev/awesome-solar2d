@@ -132,9 +132,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Post Processing
 * [Dynacam](https://github.com/Zetosoft/dynacam) - a module to add dynamic lighting and camera.
 * [plugin_movie](https://github.com/ANSH3LL/plugin_movie) - video-to-texture plugin.
-* [Shaders bank](https://github.com/fenixn0909/Solar2D_shaders)
+* [Shaders bank](https://github.com/fenixn0909/Solar2D_shaders) - a collection of shaders.
 * ["Share your shaders"](https://forums.solar2d.com/t/share-your-shaders/333202) - a forum topic listing shaders you can use.
-* [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a list of shaders you can use.
+* [Solar2D Shader](https://github.com/kan6868/solar2D-shader) - a collection of shaders.
 
 ## Starter Kits
 * [Game Jam Template](https://github.com/XeduR/Solar2D-Projects/tree/master/Game%20Jam%20Template) - a collection of libraries and plugins to make development easier during game jams.
