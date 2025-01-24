@@ -33,6 +33,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Flow](https://github.com/depilz/solarFlow) - animation and task management library.
 * [gtween](https://github.com/joshtynjala/gtween.lua) - a tweening library ported from ActionScript.
 * [LHTween](https://github.com/loghound/Corona-Transitions) - a tweening library to add more transitions.
+* [Spine Plugin](https://github.com/depilz/spinePlugin) - a native plugin to integrate Spine animations into your game.
 * [transition2](https://github.com/rannerboy/corona-transition2) - full rewrite of the transition library with an extra set of transitions.
 
 ## Audio
