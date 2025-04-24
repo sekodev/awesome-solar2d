@@ -82,8 +82,9 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 ## Graphics
 * [Color Tween](https://github.com/ldurniat/Color-Tween) - a module for color transition using linear interpolation.
 * [corona-magnifier](https://github.com/schroederapps/corona-magnifier) - a module that creates a virtual magnifying glass.
+* [Free Texture Packer](https://woodsword.itch.io/solar2d-texture-packer) - a tool to create and edit sprite sheets.
 * [Graphics-Extensions-for-Solar2D](https://github.com/ANSH3LL/Graphics-Extensions-for-Solar2D) - an extension to supported image formats(SVG, WEBP, QOI, PNG, JPEG).
-* [Lua-Color-Converter](https://github.com/andrewyavors/Lua-Color-Converter) - converts hex or RGB values into compatible format.
+* [Lua-Color-Converter](https://github.com/andrewyavors/Lua-Color-Converter) - a library that converts hex or RGB values into compatible format.
 * [Scrappy Colour](https://scrappyferret.com/portfolio/scrappy-colour/) - a colour management library that allows for easy colour naming and access.
 * [SVG-Path-in-Lua](https://github.com/singularity-is-i/SVG-Path-in-Lua) - a module for getting SVG paths and translate them into coordinates.
 
