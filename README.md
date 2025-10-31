@@ -42,6 +42,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [XeduR - sfx.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/sfx) - a module for loading and handling all audio files via their filename (and path).
 
 ## Coding & Debugging
+* [deploy-source](https://github.com/scottrules44/deploy-source/) - a library that enables you to run Lua code at runtime.
 * [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints) - a utility that enables the integration of breakpoints.
 * [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit) - a tool that allows for real-time editing of variables and objects.
 * [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/)) - a tool you can use to replace locally bundled scripts with downloaded patches.
