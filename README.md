@@ -184,3 +184,4 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Spyric UUID](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/UUID) - a module used to create a UUID solely using time.
 * [WebView Enhanced](https://github.com/labolado/solar2d_webview_enhanced) - extended API with new methods and events.
 * [XeduR - utils.lua](https://github.com/XeduR/Solar2D-Projects/tree/master/utils) - a collection of all sorts of useful utility functions.
+* [yoga](https://github.com/labolado/solar2d-plugin-yoga) - a plugin that lets you use Meta Yoga Flexbox layout.
