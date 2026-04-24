@@ -46,6 +46,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [LuaBreakpoints](https://github.com/depilz/LuaBreakpoints) - a utility that enables the integration of breakpoints.
 * [LuaLiveEdit](https://github.com/depilz/LuaLiveEdit) - a tool that allows for real-time editing of variables and objects.
 * [Patcher](https://github.com/roaminggamer/RG_FreeStuff/tree/master/Products/patcher) ([documentation](https://roaminggamer.github.io/RGDocs/pages/Plugins/patcher/)) - a tool you can use to replace locally bundled scripts with downloaded patches.
+* [profiler](https://github.com/solar2d/com.solar2d-plugin.profiler/) - a plugin to track your app/game performance. profiler.
 * [solar2c](https://github.com/ggcrunchy/solar2c) - a plugin for Tiny C compiler that lets you use C libraries.
 * [Solar2DGameSpeed](https://github.com/depilz/Solar2DGameSpeed) - a tool designed to control the game speed.
 * [SPH — Siu's Performance HUD](https://github.com/siudesu/SPH) - self-contained performance HUD overlay. profiler.
