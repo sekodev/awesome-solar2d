@@ -51,6 +51,7 @@ a collection of awesome [Solar2D](https://solar2d.com/) resources.
 * [Solar2DGameSpeed](https://github.com/depilz/Solar2DGameSpeed) - a tool designed to control the game speed.
 * [SPH — Siu's Performance HUD](https://github.com/siudesu/SPH) - self-contained performance HUD overlay. profiler.
 * [Spyric Performance](https://github.com/SpyricGames/Solar2D-Plugins-Public/tree/main/Performance) - a library to track your app/game performance. profiler.
+* [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua.
 
 ## Collections
 * [ggcrunchy](https://github.com/ggcrunchy/solar2d-snippets)
